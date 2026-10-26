@@ -134,6 +134,7 @@ scripts/collect-codex-evidence.ps1  只读证据收集器（13 段）
 scripts/fix-blank-window.ps1        合成器恢复
 agents/openai.yaml                  UI 元数据
 assets/icon.svg                     skill 图标
+LICENSE / NOTICE                    Apache License 2.0 + 署名
 ```
 
 ## 说明
@@ -146,4 +147,8 @@ assets/icon.svg                     skill 图标
 
 ## License
 
-尚未指定 —— 再分发前请补一个。
+[Apache License 2.0](LICENSE) —— 宽松许可，并且**包含明确的专利授权条款**，这也是它在企业场景下比 MIT 更稳妥的原因。
+
+Copyright 2026 1511878271，署名信息见 [NOTICE](NOTICE)。
+
+贡献代码默认按同一许可授权。

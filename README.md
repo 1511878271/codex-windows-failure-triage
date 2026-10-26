@@ -151,6 +151,7 @@ scripts/collect-codex-evidence.ps1   read-only evidence collector (13 sections)
 scripts/fix-blank-window.ps1         compositor recovery
 agents/openai.yaml              UI metadata
 assets/icon.svg                 skill icon
+LICENSE / NOTICE                Apache License 2.0 + attribution
 ```
 
 ## Notes
@@ -166,4 +167,9 @@ assets/icon.svg                 skill icon
 
 ## License
 
-Not specified yet — add one before redistributing.
+[Apache License 2.0](LICENSE) — permissive, and it carries an explicit patent grant, which is why
+it is preferred over MIT for anything that might be used inside an organisation.
+
+Copyright 2026 1511878271. See [NOTICE](NOTICE) for attribution.
+
+Contributions are accepted under the same license.
