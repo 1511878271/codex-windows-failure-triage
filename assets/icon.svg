@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none"
+     stroke="#4F46E5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <!-- magnifier over a terminal prompt: "triage Codex on Windows" -->
+  <rect x="2.5" y="4" width="15" height="11" rx="1.6"/>
+  <path d="M5.6 7.6l2 1.9-2 1.9"/>
+  <path d="M9.8 11.4h3.2"/>
+  <circle cx="17.4" cy="14.6" r="3.6"/>
+  <path d="M20.1 17.3L22.2 19.4"/>
+</svg>

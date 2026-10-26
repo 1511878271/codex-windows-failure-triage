@@ -1,0 +1,14 @@
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor / tooling
+.vscode/
+.idea/
+
+# Local scratch / verification artifacts
+*.log
+*.tmp
+*.bak
+window-*.png
